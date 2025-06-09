@@ -33,7 +33,7 @@ Y luego permite buscar un auto específico utilizando dos métodos distintos:
 
 ## Estructura del Proyecto
 
-- `main.py`: archivo principal que ejecuta la carga de autos, ordenamiento y búsqueda.
+-  Dentro de `Codigo Python` se encuentra el `main.py`: archivo principal que ejecuta la carga de autos, ordenamiento y búsqueda.
 - `ordenamiento.py`: contiene las funciones de ordenamiento.
 - `busqueda.py`: contiene las funciones de búsqueda.
 
