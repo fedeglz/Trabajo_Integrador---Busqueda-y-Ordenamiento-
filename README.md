@@ -9,7 +9,7 @@
 
 ## Búsqueda y Ordenamiento de Autos en Python
 
-Este proyecto fue realizado como parte del trabajo integrador final de la materia Programación I. Nuestro objetivo fue aplicar lo aprendido durante el curso para resolver un problema real: organizar una lista de autos usando algoritmos de ordenamiento clásicos.
+Este proyecto consiste en cargar una lista de autos ingresados por el usuario, para luego aplicar dos algoritmos de ordenamiento (Bubble Sort y Selection Sort) y dos algoritmos de búsqueda (lineal y binaria).
 
 
 ## Descripción
@@ -17,34 +17,28 @@ Este proyecto fue realizado como parte del trabajo integrador final de la materi
 El programa le permite al usuario cargar una cantidad de autos, ingresando:
 
 - Marca
-
 - Modelo
-
 - Año
 
 Una vez registrados, el programa ordena la lista de dos formas:
 
 + Por marca, usando Bubble Sort
-
 + Por año, usando Selection Sort
 
-Todo el código está hecho de forma sencilla, para entender cómo funcionan estos algoritmos paso a paso y ver su efecto en una lista real.
+Y luego permite buscar un auto específico utilizando dos métodos distintos:
+
++ Búsqueda lineal
++ Búsqueda binaria
 
 
-## Lo que aprendimos
+## Estructura del Proyecto
 
-* Cómo funcionan Bubble Sort y Selection Sort con ejemplos concretos.
-
-* Cómo usar listas de diccionarios en Python.
-
-* Cómo interactuar con el usuario desde consola.
-
-* Cómo aplicar teoría de programación a un caso real y entendible.
-
+- `main.py`: archivo principal que ejecuta la carga de autos, ordenamiento y búsqueda.
+- `ordenamiento.py`: contiene las funciones de ordenamiento.
+- `busqueda.py`: contiene las funciones de búsqueda.
 
 ## Tecnologías usadas
 
-- Python
-
-- Visual Studio Code
+- [Python](https://www.python.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/Download)
 
