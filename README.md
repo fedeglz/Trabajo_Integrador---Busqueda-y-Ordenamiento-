@@ -1,11 +1,11 @@
-#Trabajo Integrador - Programación I
+# Trabajo Integrador - Programación I
 
-##Ordenamiento de Autos en Python
+## Ordenamiento de Autos en Python
 
 Este proyecto fue realizado como parte del trabajo integrador final de la materia Programación I. Nuestro objetivo fue aplicar lo aprendido durante el curso para resolver un problema real: organizar una lista de autos usando algoritmos de ordenamiento clásicos.
 
 
-##Descripción
+## Descripción
 
 El programa le permite al usuario cargar una cantidad de autos, ingresando:
 
@@ -24,7 +24,7 @@ Una vez registrados, el programa ordena la lista de dos formas:
 Todo el código está hecho de forma sencilla, para entender cómo funcionan estos algoritmos paso a paso y ver su efecto en una lista real.
 
 
-##Lo que aprendimos
+## Lo que aprendimos
 
 * Cómo funcionan Bubble Sort y Selection Sort con ejemplos concretos.
 
@@ -35,7 +35,7 @@ Todo el código está hecho de forma sencilla, para entender cómo funcionan est
 * Cómo aplicar teoría de programación a un caso real y entendible.
 
 
-##Tecnologías usadas
+## Tecnologías usadas
 
 - Python
 
