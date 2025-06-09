@@ -42,3 +42,5 @@ Y luego permite buscar un auto específico utilizando dos métodos distintos:
 - [Python](https://www.python.org/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
 
+## Link del video de YouTube
+* https://www.youtube.com/watch?v=CB5xYSaYrDU
