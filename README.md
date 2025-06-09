@@ -1,6 +1,13 @@
-# Trabajo Integrador - Programación I
+## Trabajo Integrador - Programación I
 
-## Ordenamiento de Autos en Python
+# Algoritmo de Búsqueda y Ordenamiento
+
+## Integrantes
+
++ Gonzalo Luna
++ Federico González
+
+## Búsqueda y Ordenamiento de Autos en Python
 
 Este proyecto fue realizado como parte del trabajo integrador final de la materia Programación I. Nuestro objetivo fue aplicar lo aprendido durante el curso para resolver un problema real: organizar una lista de autos usando algoritmos de ordenamiento clásicos.
 
